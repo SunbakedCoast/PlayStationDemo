@@ -1,6 +1,11 @@
 {
-"games": [
-{"id": 1, "title": "God of War" },
-{"id": 1, "title": "God of War" }
+"Games": [
+{"image": "https://cdn-l-cyberpunk.cdprojektred.com/wallpapers/1080x1920/CP77-KV-en.jpg", 
+ "name": "Cyberpunk: 2077",
+ "description": "Fetch Test",
+ "isFourK": true,
+ "isMultiplayer": true,
+ "players": 23,
+ "genre": "Action"}
 ]
 }

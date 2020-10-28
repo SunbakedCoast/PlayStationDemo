@@ -7,12 +7,14 @@
  "isMultiplayer": true,
  "players": 23,
  "genre": "Action"},
- {"image": "https://lh3.googleusercontent.com/proxy/ICaFC91JH4YM8884KA1qDRFpqYNAxOnIPnUOCcSb1sRHDJHCbNFrCo0elHc4Xh7pDh13kNIVApM7HQL28k99uAuDLqmCl4w_Kvs31whaF923Z4TW8899FjZZ9IVH91elkF34twUSikwIJDuHdQ", 
+ {
+  "image": "https://lh3.googleusercontent.com/proxy/ICaFC91JH4YM8884KA1qDRFpqYNAxOnIPnUOCcSb1sRHDJHCbNFrCo0elHc4Xh7pDh13kNIVApM7HQL28k99uAuDLqmCl4w_Kvs31whaF923Z4TW8899FjZZ9IVH91elkF34twUSikwIJDuHdQ", 
  "name": "Assassins Creed: Valhalla",
  "description": "Fetch Test Valhalla",
  "isFourK": true,
  "isMultiplayer": false,
  "players": 22,
- "genre": "Action"},
+ "genre": "Action"
+ },
 ]
 }

@@ -25,6 +25,14 @@
  "isMultiplayer": true,
  "players": 23,
  "genre": "Action",
+ "isFeatured": true},
+ {"image": "https://images.firstpost.com/wp-content/uploads/large_file_plugin/2018/11/1541061542_redtitle.jpg", 
+ "name": "Red Dead Redemption 2",
+ "description": "Fetch Test Red Dead Redemption 2",
+ "isFourK": true,
+ "isMultiplayer": true,
+ "players": 23,
+ "genre": "Action",
  "isFeatured": true}
 ]
 }

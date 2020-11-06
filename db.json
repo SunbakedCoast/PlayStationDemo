@@ -17,6 +17,14 @@
  "players": 22,
  "genre": "Action",
  "isFeatured": false
- }
+ },
+ {"image": "https://cdn.mos.cms.futurecdn.net/kTzLmWMLiZfZ9qqhwGkEGD-1200-80.jpg", 
+ "name": "Watchdogs: Legion",
+ "description": "Fetch Test Watchdogs: Legion",
+ "isFourK": true,
+ "isMultiplayer": true,
+ "players": 23,
+ "genre": "Action",
+ "isFeatured": true}
 ]
 }

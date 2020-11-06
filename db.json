@@ -6,7 +6,8 @@
  "isFourK": true,
  "isMultiplayer": true,
  "players": 23,
- "genre": "Action"},
+ "genre": "Action",
+ "isFeatured": true},
  {
   "image": "https://www.thesun.co.uk/wp-content/uploads/2020/10/Assassins-Creed-Valhalla-Time-Period.jpg", 
  "name": "Assassins Creed: Valhalla",
@@ -14,7 +15,8 @@
  "isFourK": true,
  "isMultiplayer": false,
  "players": 22,
- "genre": "Action"
+ "genre": "Action",
+ "isFeatured": false
  }
 ]
 }

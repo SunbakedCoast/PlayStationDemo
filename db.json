@@ -57,6 +57,14 @@
  "isMultiplayer": true,
  "players": 25,
  "genre": "Strategy",
- "isFeatured": false}
+ "isFeatured": false},
+ {"image": "https://store-images.s-microsoft.com/image/apps.36093.14339303838396367.725ab8dd-f8b7-4a29-a351-45ebd5d66edd.ba2a2523-7f32-4f92-a83d-26097b7b6ca1", 
+ "name": "Forza Horizon 4",
+ "description": "Forza Horizon Fetch test",
+ "isFourK": true,
+ "isMultiplayer": true,
+ "players": 55,
+ "genre": "Racing",
+ "isFeatured": true}
 ]
 }

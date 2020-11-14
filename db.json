@@ -16,7 +16,7 @@
  "description": "Fetch Test Valhalla",
  "isMultiplayer": false,
  "genre": "Action",
- "isFeatured": false
+ "isFeatured": false,
  "price": 29.00,
  "platforms": ["PC", "XBOX", "PS"],
  "developer": "CD Projekt Red",

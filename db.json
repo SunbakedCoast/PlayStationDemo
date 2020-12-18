@@ -109,6 +109,18 @@
  "platforms": ["PS"],
  "developer": "Sony Interactive",
  "language": "English",
- "tags": ["Kratos", "god of war", "God of war"]}
+ "tags": ["Kratos", "god of war", "God of war"]},
+ {"image": "https://www.teamvvv.com/wp-content/uploads/2013/10/Driveclub-artwork-wallpaper.jpg",
+ "gif": "https://steamuserimages-a.akamaihd.net/ugc/39734899487325349/42B5A0452EB60DEF9849C9F207850D5B74DB4EB3/",
+ "name": "Driveclub",
+ "description": "Driveclub is a racing game in which players compete in races around the world in several different game modes. A major focus of the game is the club aspect. Players may join a club or create their own and will compete against other clubs to ultimately see whose club is the best.",
+ "isMultiplayer": "Yes",
+ "genre": "Racing",
+ "isFeatured": false,
+ "price": 32.00,
+ "platforms": ["PS4"],
+ "developer": "Sony Interactive",
+ "language": "English",
+ "tags": ["Racing", "racing", "Driveclub", "driveclub", "cars", "Cars"]}
 ]
 }

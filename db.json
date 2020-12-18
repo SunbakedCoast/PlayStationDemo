@@ -97,6 +97,18 @@
  "platforms": ["XBOX", "PC", "PS"],
  "developer": "Nintendo",
  "language": "English",
- "tags": ["Adventure", "adventure", "zelda"]}
+ "tags": ["Adventure", "adventure", "zelda"]}, 
+ {"image": "https://i.pinimg.com/originals/9d/e0/f1/9de0f190115653085ef310291fa8116d.jpg",
+ "gif": "https://i.pinimg.com/originals/38/d4/fd/38d4fd78fb2b3341e51a78fdd95866a7.gif",
+ "name": "God of War",
+ "description": "Many years after Kratos' defeat the Olympian Gods, he now lives with his son Atreus in ancient Scandinavia in the realm of Midgard. After cremating the body of his wife, Faye, and going on a short hunt with Atreus to teach the latter how to survive, Kratos is confronted by a mysterious man with Godlike powers.",
+ "isMultiplayer": "No",
+ "genre": "Adventure",
+ "isFeatured": true,
+ "price": 32.00,
+ "platforms": ["PS"],
+ "developer": "Sony Interactive",
+ "language": "English",
+ "tags": ["Kratos", "god of war", "God of war"]}
 ]
 }
